@@ -5,6 +5,6 @@ export const MAIN_METADATA = {
   TITLE: "Github Business Card",
   DESCRIPTION: "Generate a professional business card of your GitHub profile",
   IMAGE:
-    "https://ik.imagekit.io/2oajjadqkz/1731074413647.jpg?updatedAt=1731074450615",
+    "https://ik.imagekit.io/2oajjadqkz/gh-business-card-og-image.png?updatedAt=1732103376798",
   URL: BASE_URL,
 };
