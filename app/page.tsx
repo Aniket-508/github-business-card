@@ -86,7 +86,7 @@ function Home() {
               value={username}
               onChange={(e) => setUsername(e.target.value)}
               placeholder="Enter GitHub username"
-              className="w-full bg-white dark:bg-gray-900 pl-10 pr-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent shadow-sm"
+              className="w-full bg-white dark:bg-gray-900 pl-10 pr-28 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent shadow-sm"
             />
             <Button
               disabled={loading}
