@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Start](https://img.shields.io/github/stars/Aniket-508/github-business-card?color=yellow&style=flat&label=%E2%AD%90%20stars)](https://github.com/Aniket-508/github-business-card/stargazers)
+[![License](http://img.shields.io/:license-MIT-green.svg?style=flat)](https://github.com/Aniket-508/github-business-card/blob/main/LICENSE)
+</div>
+
 # GitHub Business Card
 
 Generate a professional business card of your GitHub profile.
