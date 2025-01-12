@@ -4,6 +4,8 @@
 [![License](http://img.shields.io/:license-MIT-green.svg?style=flat)](https://github.com/Aniket-508/github-business-card/blob/main/LICENSE)
 </div>
 
+[![Image](https://ik.imagekit.io/2oajjadqkz/gh-business-card-og-image.png?updatedAt=1732103376798 "GitHub Business Card Front Page")](https://gh-business-card.vercel.app/)
+
 # GitHub Business Card
 
 Generate a professional business card of your GitHub profile.
